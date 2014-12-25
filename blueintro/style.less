@@ -1,0 +1,59 @@
+@import (inline) "../vendors/skeleton/css/normalize.css";
+@import (inline) "../vendors/skeleton/css/skeleton.css";
+
+@readme-padding: 20px 0px;
+
+* {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+body {
+    font-size: 1.5em;
+    line-height: 1.6;
+    font-weight: 400;
+    font-family: 'Open Sans', "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #222; 
+}
+
+header {
+    background-color: #4ca7bc;
+    color: #fff;
+    margin-bottom: 40px;
+
+    h1 {
+        font-size: 28px;
+        font-weight: 300;
+        line-height: 1.5em;
+        margin: 0px;
+        padding: 25px 0px;
+    }
+}
+
+.cover {
+    margin-bottom: 15px;
+
+    img {
+        width: 100%;
+        max-width: 400px;
+        margin: 0px auto;
+        display: block;
+        border: 1px solid #ddd;
+    }
+}
+
+.details {
+    margin-bottom: 30px;
+
+    .readme {
+        section {
+            img {
+                max-width: 100%;
+            }
+
+            &:first-child > h1:first-child {
+                display: none;
+            }
+        }
+    }
+}
