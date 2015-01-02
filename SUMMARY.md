@@ -35,5 +35,6 @@
    * [Rcpp](tmp/rcpp.md)
    * [Shiny](tmp/shiny.md)
    * [日本語をめぐる闇](tmp/why_are_u_using_sjis.md)
+   * [htmlwidgets](tmp/htmlwidgets.md)
 * [参考文献・URL](references/README.md)
 
