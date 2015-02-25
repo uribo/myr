@@ -15,6 +15,8 @@
    * [制御構造](programing/control_flow.md)
    * [正規表現](programing/regular_expression.md)
 * [データの操作・前処理](manipulation/README.md)
+   * [さまざまなデータの読み込み](manipulation/data_loading.md)
+   * [処理しやすいデータの形](manipulation/tidy_data.md)
 * [統計解析](analyses/README.md)
    * [分布について](analyses/distribution.md)
    * [仮説検定](analyses/hypothesis_testing.md)
