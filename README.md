@@ -20,7 +20,7 @@ print("hello woRld!") #プログラミングでよくある例のアレ
 
 ## 環境
 
-* OS: Mac OS X 10.10.1
+* OS: Mac OS X 10.10.2
   * R (3.1.2)
       * RStudio
 * GitBook
@@ -28,7 +28,7 @@ print("hello woRld!") #プログラミングでよくある例のアレ
 
 ## 進捗どうですか？
 
-![Progress](http://progressed.io/bar/1) Oh...
+![Progress](http://progressed.io/bar/2) Oh...
 
 ### 変更点
 
