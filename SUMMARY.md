@@ -17,6 +17,7 @@
 * [データの操作・前処理](manipulation/README.md)
    * [さまざまなデータの読み込み](manipulation/data_loading.md)
    * [処理しやすいデータの形](manipulation/tidy_data.md)
+   * [データの要約](manipulation/data_overview.md)
 * [統計解析](analyses/README.md)
    * [分布について](analyses/distribution.md)
    * [仮説検定](analyses/hypothesis_testing.md)
